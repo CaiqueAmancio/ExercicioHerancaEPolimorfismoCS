@@ -1,0 +1,48 @@
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.exe
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.deps.json
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.json
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.dev.json
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\source\repos\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.genruntimeconfig.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.genruntimeconfig.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.exe
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.deps.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.dev.json
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ref\ExercicioHeranca.dll
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\caiqu\OneDrive\Área de Trabalho\curso_csharp.net\csharp_udemy\materialApoio\exercícios\ExercicioHeranca\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.genruntimeconfig.cache
